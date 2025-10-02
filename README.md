@@ -4,12 +4,13 @@ Soma Recursiva Entre Dois Inteiros
 
 Este projeto implementa uma função recursiva em C++ que calcula a soma de todos os números inteiros existentes entre dois valores positivos fornecidos pelo usuário. O programa é interativo, realiza validações de entrada e demonstra o uso da recursão de forma clara e didática.
 
+
 📌 Funcionalidades
-• 	Solicita dois números inteiros positivos ao usuário
-• 	Valida se o primeiro número é menor que o segundo
-• 	Calcula a soma dos números inteiros entre os dois valores (excluindo os extremos)
-• 	Utiliza recursão para realizar o cálculo
-• 	Executa em loop contínuo para múltiplas interações
+- Solicita dois números inteiros positivos ao usuário
+- Valida se o primeiro número é menor que o segundo
+- Calcula a soma dos números inteiros entre os dois valores (excluindo os extremos)
+- Utiliza recursão para realizar o cálculo
+- Executa em loop contínuo para múltiplas interações
 
 🧠 Lógica da Função Recursiva
 A função soma_entre_n(int a, int b) recebe dois inteiros e retorna a soma dos números entre eles. A recursão ocorre reduzindo o intervalo até que a == b, momento em que a função retorna 0.
