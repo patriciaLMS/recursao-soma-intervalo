@@ -36,4 +36,4 @@ Este projeto é ideal para estudantes de programação que desejam entender:
 - Validação de entrada em C++
 - Estrutura básica de um programa interativo em terminal
 
-
+*Código feito com auxílio de IA, ChatGPT | Copilot
